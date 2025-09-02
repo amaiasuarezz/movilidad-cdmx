@@ -1,0 +1,59 @@
+html{
+
+    font-size: 18px;
+    background-color:rgb(0, 0, 0)
+}
+
+body { 
+    font-family:  "futura-pt", sans-serif;
+    text-align: center;
+    color:rgb(255, 255, 255)
+    
+}
+
+a{
+    color: rgb(255, 252, 93) ;
+
+}
+a:visited{
+    color:rgb(167, 167, 167) ;
+}
+a:hover{
+    color: rgb(255, 255, 255);
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "basset-four", sans-serif;
+    text-align: center;
+    color:rgb(255, 252, 93)
+
+}
+   section{
+font-size: 20px;
+   }
+
+h1 {
+    text-align: center;
+    font-size: 2em;
+
+}
+p{
+    font-size: 1.2em;
+}
+
+main{
+   
+    margin: o auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    min-width: 320px;
+    max-width: 1640px;
+}
+article{
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+h3{
+    font-size: 1.5rem;
+    font-weight: 400;
+}
