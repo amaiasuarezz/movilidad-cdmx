@@ -12,4 +12,15 @@ body{
 h1, h2, h3, h4{
     font-family:var(--font-title) ;
 }
+.nav-link{
+    background-color: var(--bg-color);
+    color: var(--text-color);
+     transition:all 0.3s ease;
 
+}
+
+.nav-link: hover{
+    background-color: var(--accent-color);
+    color: var(--bg-color);
+   
+}
